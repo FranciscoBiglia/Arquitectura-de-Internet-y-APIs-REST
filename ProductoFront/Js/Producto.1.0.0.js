@@ -48,6 +48,24 @@ function AgregarProducto() {
         precioVenta: document.getElementById("precioVenta").value
     };
 
+// VALIDACIONES COMPLETAR CAMPOS
+
+    if(nuevoProducto.nombres === ""){
+      alert("Debe completar el campo 'Nombre'.");
+    return;}
+
+    if(nuevoProducto.descripcion === ""){
+      alert("Debe completar el campo 'Descripcion'.");
+    return;}
+
+    if(nuevoProducto.precioCosto === ""){
+      alert("Debe completar el campo 'Precio Costo'.");
+    return;}
+
+    if(nuevoProducto.precioVenta === ""){
+      alert("Debe completar el campo 'Precio Venta'.");
+    return;}
+
     fetch("http://localhost:5093/api/Producto", {
         method: "POST",
         headers: {

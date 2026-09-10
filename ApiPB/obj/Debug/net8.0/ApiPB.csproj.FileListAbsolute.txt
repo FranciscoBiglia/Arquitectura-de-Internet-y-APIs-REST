@@ -775,3 +775,4 @@ C:\Users\franb\OneDrive\Escritorio\Universidad\2do AÑO - 2do semestre\Arquitect
 C:\Users\franb\OneDrive\Escritorio\Universidad\2do AÑO - 2do semestre\Arquitectura de Internet y APIs REST\ApiClase\ApiPB\obj\Debug\net8.0\ApiPB.pdb
 C:\Users\franb\OneDrive\Escritorio\Universidad\2do AÑO - 2do semestre\Arquitectura de Internet y APIs REST\ApiClase\ApiPB\obj\Debug\net8.0\ApiPB.genruntimeconfig.cache
 C:\Users\franb\OneDrive\Escritorio\Universidad\2do AÑO - 2do semestre\Arquitectura de Internet y APIs REST\ApiClase\ApiPB\obj\Debug\net8.0\ref\ApiPB.dll
+C:\Users\franb\OneDrive\Escritorio\Universidad\2do AÑO - 2do semestre\Arquitectura de Internet y APIs REST\ApiClase\ApiPB\obj\Debug\net8.0\ApiPB.sourcelink.json
